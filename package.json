@@ -1,0 +1,33 @@
+{
+  "name": "carlosmoran97.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosmoran97/carlosmoran97.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosmoran97/carlosmoran97.github.io/issues"
+  },
+  "homepage": "https://github.com/carlosmoran97/carlosmoran97.github.io#readme",
+  "dependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "redux": "^4.0.1",
+    "webpack-cli": "^3.1.2",
+    "wepack": "0.0.1"
+  }
+}
